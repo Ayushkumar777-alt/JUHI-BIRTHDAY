@@ -1,0 +1,14 @@
+{
+  "name": "birthday-surprise",
+  "version": "1.0.0",
+  "description": "Birthday surprise interactive webpage",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Ready'",
+    "dev": "serve . -l 3000",
+    "start": "serve . -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
